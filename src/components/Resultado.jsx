@@ -33,7 +33,7 @@ const Resultado = ({resultado}) => {
     return (
         <Cotizacion>
             <Imagen 
-                src={`https:cryptocompare.com/${IMAGEURL}`} 
+                src={`https://cryptocompare.com/${IMAGEURL}`} 
                 alt="imagen cripto" />
             
             <div>
